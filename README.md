@@ -333,7 +333,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-anglit-stdev/main/LICENSE
 
-[anglit-distribution]: https://en.wikipedia.org/wiki/Anglit_distribution
+[anglit-distribution]: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.anglit.html
 
 [stdev]: https://en.wikipedia.org/wiki/Standard_deviation
 
